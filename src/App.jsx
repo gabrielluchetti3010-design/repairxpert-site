@@ -11,8 +11,8 @@ import {
 const CONFIG = {
   companyName: "RepairXpert",
   address: "Rua das Tecnologias, 250 — Centro, Atibaia/SP",
-  whatsapp: "(11) 99999-0000",
-  whatsappRaw: "5511999990000", // Para o link
+  whatsapp: "(11) 94348-1852",
+  whatsappRaw: "5511943481852", // Para o link
   phone: "(11) 4000-2026",
   email: "contato@repairxpert.com.br",
   hours: "Segunda a sexta, das 9h às 18h; sábado, das 9h às 13h",
